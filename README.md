@@ -51,7 +51,7 @@ The dataset consists of anonymized session-level records with features such as:
    - Evaluated with `r2_score` (as per competition guidelines)  
 
 **Best Result:**  
-Achieved **R² = 0.79075**, ranking **#3** on the leaderboard 🏆  
+Achieved **R² = 0.82**, ranking **#1** on the leaderboard 🏆  
 Received an **S grade** for the course project.
 
 ---
